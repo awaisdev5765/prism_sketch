@@ -1,0 +1,26 @@
+name: prism_sketch
+description: >-
+  Wireframe-to-code for the Prism ecosystem. Describe a screen in plain
+  English — "login page: email field, password field, primary button" — and
+  get idiomatic prism_kit Flutter code. Pure Dart, zero dependencies.
+version: 0.1.0
+repository: https://github.com/awaisdev5765/prism_sketch
+issue_tracker: https://github.com/awaisdev5765/prism_sketch/issues
+homepage: https://github.com/awaisdev5765/prism_sketch
+documentation: https://github.com/awaisdev5765/prism_sketch
+topics:
+  - flutter
+  - code-generation
+  - scaffolding
+  - cli
+  - design-system
+
+environment:
+  sdk: ^3.5.0
+
+executables:
+  prism_sketch:
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.25.0
